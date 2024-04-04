@@ -1,1 +1,1 @@
-# STATS
+# STATISTICS for Data Science
