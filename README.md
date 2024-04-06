@@ -4,3 +4,4 @@
 <p> Central Tendency Measures</p>
 <p> Dispersion</p>
 <p> Normal Distribution</p>
+<p> Confidence Intervals</p>
