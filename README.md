@@ -5,3 +5,4 @@
 <p> Dispersion</p>
 <p> Normal Distribution</p>
 <p> Confidence Intervals</p>
+<p> Hypothesis Testing</p>
