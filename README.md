@@ -6,3 +6,4 @@
 <p> Normal Distribution</p>
 <p> Confidence Intervals</p>
 <p> Hypothesis Testing</p>
+<p> Formulas in One Notebook</p>
